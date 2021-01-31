@@ -1,9 +1,9 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/betauser/uptime/dHmQOXeWbdNuJsII?monitors=784130459-784130462",
+    ENDPOINT: "https://v1.nocodeapi.com/sfafsafsafasfas/uptime/cNQRbWwyLRJUCXuh?monitors=787090147",
 
-    title: "NoCodeAPI",
+    title: "Mc-Witpun.tk Status",
 
-    website: "https://nocodeapi.com",
+    website: "https://worldmini.ml",
 
     twitterHandle: "@nocodeapi",
     
